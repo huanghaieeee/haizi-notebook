@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Public images
+public/images/
+
+# macOS specific files
+.DS_Store
+
+# IDE files
+.idea/
+*.sublime-*
